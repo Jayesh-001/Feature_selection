@@ -64,4 +64,4 @@ Both projects utilize a rigorous, comparative pipeline to evaluate feature impor
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YourUsername/YourRepositoryName.git](https://github.com/YourUsername/YourRepositoryName.git)
+   git clone [https://github.com/Jayesh-001/Feature_selection.git](https://github.com/Jayesh-001/Feature_selection/.git)
